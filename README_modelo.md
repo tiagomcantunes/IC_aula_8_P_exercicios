@@ -1,8 +1,8 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome: Tiago Antunes**  
+- **Número: 22605235**  
+- **Turma: 2**  
 
 ---
 
@@ -14,4 +14,3 @@
 
 ## Observações (opcional)
 
-(Podes deixar aqui algum comentário sobre o processo, dificuldades ou observações relevantes.)
